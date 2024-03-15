@@ -1,4 +1,5 @@
 Car Price Prediction 
+
 Objective:
 The main objective of the Car Price Prediction project is to develop a predictive model that accurately estimates the price of a used car based on input features such as brand, model, year, mileage, and market trends.
 
